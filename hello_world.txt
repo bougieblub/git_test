@@ -1,0 +1,3 @@
+Hello world!
+Woot woot. Practicing committing git using Terminal.
+While making changes here in VSCode.
